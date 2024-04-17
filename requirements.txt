@@ -1,0 +1,4 @@
+PyYAML >= 6.0.1
+ruamel.yaml >= 0.18.6
+jsonlines >= 4.0.0
+grammateus >= 0.0.10
